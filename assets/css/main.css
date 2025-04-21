@@ -1,0 +1,19 @@
+.body {
+    display: flex;
+}
+
+.content {
+    background-image: url(../img/background3.jpg);
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-drini {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: stretch;
+}
