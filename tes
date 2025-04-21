@@ -1,2 +1,0 @@
-
-                        <a class="badge badge-danger float-right ml-1" onclick="return confirm('Anda Yakin?');" href="../config/kendaraan/do_hapus.php?id=<?= $kendaraan['id']; ?>">Hapus</a>
